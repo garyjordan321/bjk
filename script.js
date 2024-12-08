@@ -1,8 +1,8 @@
 // Token Data with Image Links and Redirect URLs
 const tokens = [
-    { image: "images/pnut.jpeg", name: ["Peanut the Squirrel", "Pnut", "pnut"], redirectUrl: "https://pump.fun/coin/2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump" },
-    { image: "images/goat.jpeg", name: ["Goatseus Maximus", "GOAT", "goat"], redirectUrl: "https://pump.fun/coin/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump" },
-    { image: "images/chillguy.jpeg", name: ["chillguy", "just a chill guy", "Chillguy"], redirectUrl: "https://pump.fun/coin/Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump" },
+    { image: "images/Pnut.jpeg", name: ["Peanut the Squirrel", "Pnut", "pnut"], redirectUrl: "https://pump.fun/coin/2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump" },
+    { image: "images/GOAT.jpeg", name: ["Goatseus Maximus", "GOAT", "goat"], redirectUrl: "https://pump.fun/coin/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump" },
+    { image: "images/Chillguy.jpeg", name: ["chillguy", "just a chill guy", "Chillguy"], redirectUrl: "https://pump.fun/coin/Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump" },
     { image: "images/fwog.jpeg", name: ["fwog"], redirectUrl: "https://pump.fun/coin/A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump" },
     { image: "images/luce.jpeg", name: ["luce", "Luce"], redirectUrl: "https://pump.fun/coin/CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump" },
     { image: "images/vvaifu.png", name: ["Vvaifu", "dasha", "vvaifu"], redirectUrl: "https://pump.fun/coin/FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8" },
